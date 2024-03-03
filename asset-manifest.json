@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/3d-car-glasses/static/css/main.ff9ba0a8.css",
+    "main.js": "/3d-car-glasses/static/js/main.9d4f6113.js",
+    "index.html": "/3d-car-glasses/index.html",
+    "main.ff9ba0a8.css.map": "/3d-car-glasses/static/css/main.ff9ba0a8.css.map",
+    "main.9d4f6113.js.map": "/3d-car-glasses/static/js/main.9d4f6113.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff9ba0a8.css",
+    "static/js/main.9d4f6113.js"
+  ]
+}
