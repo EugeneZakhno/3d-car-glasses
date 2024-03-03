@@ -1,5 +1,6 @@
 {
-  "name": "car-show",
+  "homepage": "https://eugenezakhno.github.io/3d-car-glasses/",
+  "name": "3d-car-glasses/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
